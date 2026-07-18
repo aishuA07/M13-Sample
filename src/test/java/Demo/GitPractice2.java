@@ -6,6 +6,7 @@ public class GitPractice2 {
 		
 		System.out.println("Practicing git");
 		System.out.println("ATE branch git");
+		System.out.println("Practice git conflict from ATE system");
 
 	}
 
